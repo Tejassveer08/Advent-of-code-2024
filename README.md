@@ -4,4 +4,4 @@ To run this program in your local IDE, type "py day-x.py day-x.in"
 
 (save the python file and the input file in the same directory)
 
-x for me is the date of the problem (eg. day-one.py means 1st december) 
+x for me is the date of the problem (eg. day-1.py means 1st december) 
