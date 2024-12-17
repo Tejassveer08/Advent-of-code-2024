@@ -1,4 +1,4 @@
-Registers,program = open('17.in').read().split('\n\n')
+Registers,program = open('Day-17.in').read().split('\n\n')
 
 regs = [int(i) for i in Registers.split()[2::3]]
 program = [int(i) for i in program.split(' ')[1].split(',')]
